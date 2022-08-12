@@ -1,0 +1,36 @@
+{
+  "name": "@kori_xyz/fivem-lookup",
+  "version": "0.0.1",
+  "description": "Simple fivem consult server stats",
+  "main": "./lib/Index.js",
+  "types": "./lib/Index.d.ts",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node ./lib/Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kori-lab/fivem-lookup.git"
+  },
+  "keywords": [
+    "fivem",
+    "fivem-status",
+    "fivem-api"
+  ],
+  "author": "Kori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kori-lab/fivem-lookup/issues"
+  },
+  "homepage": "https://github.com/kori-lab/fivem-lookup#readme",
+  "dependencies": {
+    "superagent": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=16.15.0",
+    "npm": ">=8.5.5"
+  }
+}
