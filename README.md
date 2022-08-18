@@ -1,22 +1,11 @@
 <h1 align="center">
-    <a href="https://crawlee.dev">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apify/crawlee/master/website/static/img/crawlee-dark.svg?sanitize=true">
-          <img alt="Crawlee" src="https://raw.githubusercontent.com/apify/crawlee/master/website/static/img/crawlee-light.svg?sanitize=true" width="500">
-        </picture>
-    </a>
-    <br>
-    <small>The scalable web crawling and scraping library for JavaScript</small>
+    <small>Collect information about a Fivem server 👀</small>
 </h1>
 
 <p align=center>
-    <a href="https://www.npmjs.com/package/@crawlee/core" rel="nofollow"><img src="https://img.shields.io/npm/v/@crawlee/core.svg" alt="NPM latest version" data-canonical-src="https://img.shields.io/npm/v/@crawlee/core/next.svg" style="max-width: 100%;"></a>
-    <a href="https://www.npmjs.com/package/@crawlee/core" rel="nofollow"><img src="https://img.shields.io/npm/dm/@crawlee/core.svg" alt="Downloads" data-canonical-src="https://img.shields.io/npm/dm/@crawlee/core.svg" style="max-width: 100%;"></a>
-    <a href="https://discord.gg/jyEM2PRvMU" rel="nofollow"><img src="https://img.shields.io/discord/801163717915574323?label=discord" alt="Chat on discord" data-canonical-src="https://img.shields.io/discord/801163717915574323?label=discord" style="max-width: 100%;"></a>
-    <a href="https://github.com/apify/crawlee/actions/workflows/test-and-release.yml"><img src="https://github.com/apify/crawlee/actions/workflows/test-and-release.yml/badge.svg?branch=master" alt="Build Status" style="max-width: 100%;"></a>
+    <a href="https://www.npmjs.com/package/@kori_xyz/fivem-lookup" rel="nofollow"><img src="https://img.shields.io/npm/v/@kori_xyz/fivem-lookup.svg" alt="NPM latest version" data-canonical-src="https://img.shields.io/npm/v/@kori_xyz/fivem-lookup/next.svg" style="max-width: 100%;"></a>
+    <a href="https://www.npmjs.com/package/@kori_xyz/fivem-lookup" rel="nofollow"><img src="https://img.shields.io/npm/dm/@kori_xyz/fivem-lookup.svg" alt="Downloads" data-canonical-src="https://img.shields.io/npm/dm/@kori_xyz/fivem-lookup.svg" style="max-width: 100%;"></a>
 </p>
-
->👉👉👉 Crawlee is the successor to [Apify SDK](https://sdk.apify.com). 🎉 Fully rewritten in **TypeScript** for a better developer experience, and with even more powerful anti-blocking features. The interface is almost the same as Apify SDK so upgrading is a breeze. Read [the upgrading guide](https://crawlee.dev/docs/upgrading/upgrading-to-v3) to learn about the changes. 👈👈👈
 
 ## Install
 > Available for any computer running [nodejs](https://nodejs.org/)
