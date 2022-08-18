@@ -44,6 +44,8 @@ declare class Fivem {
     };
     version: number;
   }>;
+
+  ping(): Promise<number>;
 }
 
 export = Fivem;
