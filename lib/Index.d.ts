@@ -8,7 +8,17 @@ declare class Fivem {
         }
   );
 
-  players(): Promise<Player[]>;
+  players(): Promise<
+    [
+      {
+        endpoint: string;
+        id: string;
+        name: string;
+        ping: number;
+        indentifiers: string[];
+      }
+    ]
+  >;
 
   info(): Promise<{
     enhancedHostSupport: boolean;
