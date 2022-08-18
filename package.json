@@ -1,6 +1,6 @@
 {
   "name": "@kori_xyz/fivem-lookup",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple fivem consult server stats",
   "main": "./lib/Index.js",
   "types": "./lib/Index.d.ts",
